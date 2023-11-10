@@ -1,0 +1,44 @@
+
+     {
+      "bankManagerLogin":{
+      "bankName": "strong.mainHeading",
+      "btnManager": "button[ng-click='manager()']",
+      "btnPage": "div>div.center>button"
+      },
+      "showCust":{
+      "btnshowCust": "button[ng-click='showCust()']",
+      "inputSearch":"input[ng-model='searchCustomer']",
+      "expected":"td.ng-binding:nth-child(1)"
+      },
+      "custLogin":{
+        "btnCustomer":"button[ng-click='customer()']",
+        "yourName":"div.form-group>label",
+        "selectCust":"#userSelect",
+        "btnSubmit":"button[type='submit']",
+        "custName":"span.fontBig.ng-binding"
+      },
+      "selectAcc":{
+        "accSelect":"#accountSelect",
+        "selectCurrency":"[class='center']>strong:nth-child(3):contains('Rupee')"
+      },
+      "credit":{
+        "btnDeposit":"button[ng-click='deposit()']",
+        "amountDeposit":"input[type='number']",
+        "spanTxt":"span[class='error ng-binding']"
+      },
+      "debit":{
+        "btnWithdraw":"button[ng-click='withdrawl()']"
+      },
+      "transacHistory":{
+        "btnHistory":"button[ng-click='transactions()']",
+        "tableLen":"table.table tbody tr[class='ng-scope']"
+      },
+      "btnReset":{
+        "resetBtn":"button[ng-click='reset()']",
+        "expected":"tr[class='ng-scope']"
+      },
+      "logOut":{
+        "btnLogout":"button[ng-click='byebye()']",
+        "expected":"div>label"
+      }
+    }
