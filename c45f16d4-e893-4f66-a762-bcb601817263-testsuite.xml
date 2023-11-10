@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1699623514349' stop='1699623625345'>
+    <name>Banking Project Test Suite</name>
+    <title>Banking Project Test Suite</title>
+    <test-cases>
+        <test-case start='1699623514529' status='passed' stop='1699623551199'>
+            <name>Test Case 1: Fill the required field and click Add Customer</name>
+            <title>Test Case 1: Fill the required field and click Add Customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623551340' status='passed' stop='1699623556727'>
+            <name>Test Case 2: Select dropdown in Open Account page</name>
+            <title>Test Case 2: Select dropdown in Open Account page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623556816' status='passed' stop='1699623563045'>
+            <name>Test Case 3: Verify search functionality</name>
+            <title>Test Case 3: Verify search functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623563076' status='passed' stop='1699623569235'>
+            <name>Test Case 4: Delete a customer record from the table</name>
+            <title>Test Case 4: Delete a customer record from the table</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623569399' status='passed' stop='1699623574339'>
+            <name>Test Case 5: Choose an Account with Rupees Currency</name>
+            <title>Test Case 5: Choose an Account with Rupees Currency</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623574652' status='passed' stop='1699623582656'>
+            <name>Test Case 6: Money Deposit with Success Message</name>
+            <title>Test Case 6: Money Deposit with Success Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623582835' status='passed' stop='1699623594269'>
+            <name>Test Case 7: Money Withdrawl with Success Message</name>
+            <title>Test Case 7: Money Withdrawl with Success Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623594492' status='passed' stop='1699623607681'>
+            <name>Test Case 8: Confirm recent transaction history updates</name>
+            <title>Test Case 8: Confirm recent transaction history updates</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623607816' status='passed' stop='1699623620170'>
+            <name>Test Case 9: Verification of Transaction Table Reset Button</name>
+            <title>Test Case 9: Verification of Transaction Table Reset Button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699623620303' status='passed' stop='1699623625337'>
+            <name>Test Case 10: Verify Logout functionality</name>
+            <title>Test Case 10: Verify Logout functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
