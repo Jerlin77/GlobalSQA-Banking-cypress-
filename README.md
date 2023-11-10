@@ -1,1 +1,2 @@
-# GlobalSQA-Banking-cypress-
+GlobalSQA-Banking-cypress
+The Cypress GlobalSQA Project consists of automated tests for a banking app. It covers tasks like depositing money, withdrawing, and managing customers. I've structured the code to be clear and reusable, using the Page Object Model (POM), custom commands, and fixtures for selectors. Running the tests is simple with a command, and detailed reports are generated using Allure.
